@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <integer name="game_size">4</integer>
+</resources>
